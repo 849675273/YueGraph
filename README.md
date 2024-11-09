@@ -12,7 +12,12 @@ It comprises two features
 
 ## QA sys
 you can inquire about all content related to yue opera
-![](/assets/img/philly-magic-garden.jpg "Magic Gardens")
+![](/markdown/texture/yueGraph_t1.png "t1")
+
+
+## Visualization module
+you can find the inheritance relationships of most styles
+![](/markdown/texture/yueGraph_t2.png "t2")
 
 
 
